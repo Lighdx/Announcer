@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+description: ${project.description}
+author: Lighdx
+main: dev.lighdx.announcer.Announcer
+version: ${version}

@@ -1,0 +1,16 @@
+# Announcer BroadCast BungeeCord
+# Perms:
+#   Reload: announcer.reload
+
+# The Time is in Seconds : 60 = 1 Minutes
+Time: 60
+
+# "\n" it's a line break in the chat
+announcements:
+  - "\n&f&lJoin our Discord: &9&nyourserver.com.cf/discord&r\n"
+  - "\nf&lVisit our Store: &nStore.yourserver.com.cf&r\n"
+  - "\n&f&lVote on &aNameMC Using: &e/Votemc&r\n"
+
+messages:
+  permission: "&cNoPermission."
+  reloaded: "&aAnnouncer: Plugin reloaded successfully!"
